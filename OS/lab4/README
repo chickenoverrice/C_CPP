@@ -1,0 +1,5 @@
+Compile: make
+
+Run: ./iosched –s<schedalgo> <inputfile>
+
+select one option (i/j/s/c/f) for s.

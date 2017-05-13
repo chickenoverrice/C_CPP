@@ -1,0 +1,3 @@
+Compile: make
+
+Run: ./process_scheduler -s{FLS | R<num> | P<num>} inputFile randomFile

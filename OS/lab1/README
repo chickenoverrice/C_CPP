@@ -1,0 +1,6 @@
+Compile: g++ -o linker.out main.cpp
+Run: ./linker.out {file directory}
+
+
+
+Replace "linker.out" with any file name you like.

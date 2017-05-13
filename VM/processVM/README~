@@ -1,0 +1,7 @@
+1. Compile: g++ vm.cpp -o vm
+
+2. Run: ./vm <Your directory/Your file>
+
+3. The program will generate a 'progname.vm.txt' file in your current working directory.
+
+4. In the 'progname.vm.txt' file, the basic blocks are ordered as in the input file, NOT by the order of execution.

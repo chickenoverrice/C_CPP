@@ -1,0 +1,5 @@
+Compile: make
+
+Run: ./mmu -a{rfscaNXY} -o{OPFS} -f{num_of_frames} inputFile randomFile
+
+select one option for a, select one or more options for o, and select one number for f.
